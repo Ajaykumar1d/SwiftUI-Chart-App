@@ -1,4 +1,3 @@
-
 # 📊 SwiftUI-Chart-App
 
 A chart-based SwiftUI dashboard built using **Clean MVVM**, **Combine**, and **native SwiftUI Navigation**, with **custom charts** rendered using `Path`, `Shape`, and `GeometryReader` — without using any external libraries.
@@ -27,6 +26,8 @@ A chart-based SwiftUI dashboard built using **Clean MVVM**, **Combine**, and **n
 
 ## 📸 Screenshots
 
+
+|----------------------------------|---------------------------------|
 | ![Dashboard](Assets/screenshot_1.png) | ![LineChart](Assets/screenshot_2.png) |
 
 ---
