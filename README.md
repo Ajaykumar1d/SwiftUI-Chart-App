@@ -27,8 +27,11 @@ A chart-based SwiftUI dashboard built using **Clean MVVM**, **Combine**, and **n
 ## 📸 Screenshots
 
 
-|----------------------------------|---------------------------------|
-| ![Dashboard](Assets/screenshot_1.png) | ![LineChart](Assets/screenshot_2.png) |
+## 📸 Screenshots
+
+
+| <img src="Assets/screenshot_1.png" alt="Dashboard" width="300"/> | <img src="Assets/screenshot_2.png" alt="Line Chart" width="300"/> |
+
 
 ---
 
